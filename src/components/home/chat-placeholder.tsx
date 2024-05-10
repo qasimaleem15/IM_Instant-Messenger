@@ -15,7 +15,7 @@ const ChatPlaceHolder = () => {
 
 				<a href="https://qasimamin15.netlify.app" target="_blank">
 				<Button className='rounded-full my-5 developers_name' >
-					 Developed by Muhammad Qasim & Ahmad Iqbal
+					 Designed and Developed by Muhammad Qasim
 				</Button>
 				</a>
 			</div>
